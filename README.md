@@ -9,4 +9,4 @@ $cd Serba-Guna
 $python2 Serba-Guna.py
 ```
 #Foto
-![ss](content://com.android.chrome.FileProvider/images/screenshot/16143610283821145448611.jpg)
+![ss](content://com.android.chrome.FileProvider/images/screenshot/16143613315251462950442.jpg)
